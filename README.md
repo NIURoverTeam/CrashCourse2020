@@ -5,4 +5,4 @@ Going over all the stuff that a Rover developer needs to be a Rover developer, o
 ## Lessons
 
 1. [Getting Started](https://github.com/NIURoverTeam/CrashCourse2020/blob/master/Getting-started.md)
-1. [ROS2 Intro](https://github.com/NIURoverTeam/CrashCourse2020/blob/masterROS2-Intro.md)
+1. [ROS2 Intro](https://github.com/NIURoverTeam/CrashCourse2020/blob/master/ROS2-Intro.md)
